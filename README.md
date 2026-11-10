@@ -54,7 +54,7 @@ fixtures, which the tests use in place of a server of their own.
 ## Get it
 
 In Craft, install Tests from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/TestsAgent.git`, then say `$tests` in a request.
+`craft agents add https://github.com/rao-craft/TestsAgent.git`, then say `$tests` in a request.
 
 ## Requirements
 

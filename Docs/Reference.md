@@ -13,7 +13,7 @@ let testsRecord: GraniteRoster.Record = { GraniteRoster.record(TestsAgent.self) 
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/TestsAgent.git`, then say `$tests` in a request:
+`craft agents add https://github.com/rao-craft/TestsAgent.git`, then say `$tests` in a request:
 
 ```
 $tests prove the recipe app works: its services' work on mock responses, its pages, and each tab at launch
